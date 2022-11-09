@@ -23,7 +23,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
         stats={user.stats}
       />
       <Statistics 
-        // title='asdasdasdasd'
+        title='title'
         stats={data}
       />
       <FriendList friends={friends} />

@@ -1,17 +1,35 @@
-.statistics{
-
+.statistics {
+  background-color: #fff;
+  width: 300px;
+  margin: auto;
+  margin-top: 30px;
+  border-radius: 4px;
+  overflow: hidden;
 }
 
-.title{
-
+.title {
+  padding: 20px;
+  text-align: center;
 }
 
-.statList{
-
+.statList {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
 }
 
-.item{}
+.item {
+  width: 100%;
+  padding: 10px 0px;
+}
 
-.label{}
+.label {
+  display: block;
+  text-align: center;
+  padding-bottom: 10px;
+}
 
-.percentage{}
+.percentage {
+  display: block;
+  text-align: center;
+}

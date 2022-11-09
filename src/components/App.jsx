@@ -4,9 +4,9 @@ export const App = (p) => {
     <div
       style={{
         height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
+        // display: 'flex',
+        // justifyContent: 'center',
+        // alignItems: 'center',
       }}
     >
     {p.children}
