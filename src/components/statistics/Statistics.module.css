@@ -10,6 +10,8 @@
 .title {
   padding: 20px;
   text-align: center;
+  text-transform:uppercase;
+  color: rgb(236, 219, 197);
 }
 
 .statList {
